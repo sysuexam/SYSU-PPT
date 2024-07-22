@@ -7,3 +7,10 @@
 ![背景意义](./imgs/3.png "背景意义")
 ![模型方法](./imgs/4.png "模型方法")
 ![结尾页](./imgs/5.png "结尾页")
+
+# Screenshot Examples
+![Home Page](./imgs/6.png "Home Page")
+![Table of Contents](./imgs/7.png "Table of Contents")
+![Background and Significance](./imgs/8.png "Background and Significance")
+![Models and Methods](./imgs/9.png "Models and Methods")
+![Closing Page](./imgs/10.png "Closing Page")
